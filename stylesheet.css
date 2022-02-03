@@ -22,8 +22,8 @@ a {
 }
 
 .top-wrapper {
-  padding: 20px 40px 20px 40px;
-  background-image: url(https://raw.githubusercontent.com/AhsaniHalwanRajib/ahsanirajib/main/top.png);
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -51,7 +51,7 @@ a {
 }
 
 .signup {
-  background-color: #FF5602;
+  background-color: #239b76;
 }
 
 .facebook {
@@ -178,7 +178,7 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #E31616;
+  background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
