@@ -92,7 +92,7 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
-  background-image: linear-gradient(to right, #4682B4, #00FFFF, #00FA9A);
+  background-image: linear-gradient(to right, #4682B4, #00FFFF, #4682B4);
 }
 
 .logo {
