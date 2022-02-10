@@ -23,7 +23,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://raw.githubusercontent.com/shidqiathalla14/shidqi14.github.io/main/Desain%20tanpa%20judul.png);
+  background-image: url(https://raw.githubusercontent.com/shidqiathalla14/shidqi14.github.io/main/WELCOME%20to%20ShidTools.png);
   background-size: cover;
   color: white;
   text-align: center;
@@ -92,7 +92,7 @@ header {
   position :fixed;
   top: 0;
   z-index: 10;
-  background-image: linear-gradient(to right, #4682B4, #00BEFF, #4682B4);
+  background-image: linear-gradient(to right, #a39789, #E0DAD3, #a39789);
 }
 
 .logo {
